@@ -1,2 +1,2 @@
-# My_GH_Jessica.githup.io
+# jessicalindgren.github.io
 R workshop
